@@ -8,11 +8,11 @@
 
 ## - Types of changes
 
-* - What types of changes does your code introduce to Periodikal?*
+- *What types of changes does your code introduce to Periodikal?*
 
 Put an x in the boxes that apply
 
-[] Bugfix (non-breaking change which fixes an issue)
+[]Bugfix (non-breaking change which fixes an issue)
 [] New feature (non-breaking change which adds functionality)
 [] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 [] Documentation Update (if none of the other choices apply)
@@ -27,8 +27,8 @@ _Put an x in the boxes that apply. You can also fill these out after creating th
 [] Any dependent changes have been merged and published in downstream modules
 ## - Further comments
 
-* - If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...*
+- *If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...*
 
 ## - Screenshots if applicable
 
-* - Include screenshots in case of UI changes _adding change for demo*
+- *Include screenshots in case of UI changes _adding change for demo*
