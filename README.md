@@ -4,7 +4,7 @@
 
 ## - Link to Figma/Zeplin
 
-* - This will be a link to the map or design behind the change decisions.*
+"* - This will be a link to the map or design behind the change decisions.*"
 
 ## - Types of changes
 
